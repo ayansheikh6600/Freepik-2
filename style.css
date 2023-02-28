@@ -1,0 +1,339 @@
+
+                                        /* NavBAr Start */
+.navigation{
+    width: 100%;
+}
+
+.nav-div{
+    width: 90%;
+    margin-left: auto;
+}
+
+.menu_container ul {
+    width:inherit;
+    height: 70px;
+    margin: 0px auto;
+}
+.menu_navigation{
+    width: 100%;
+}
+.menu_container ul li{
+margin-top:auto ;
+margin-bottom: auto;
+margin-right: 10px;
+list-style-type: none;
+color: white;
+}
+
+.auth-div{
+    width: 230px;
+    align-items: center;
+    height: inherit;
+    margin: auto 5px;
+}
+.sign{
+    color: white;
+    text-decoration: none;
+    outline: 1px solid white;
+    margin: 0px 5px;
+    width: 70px;
+    text-align: center;
+}
+.log{
+    color: white;
+    text-decoration: none;
+    
+    margin: 0px 5px;
+    width: 70px;
+    text-align: center;
+}
+.sell-content-item{
+    margin-left: auto;
+}
+.humburger{
+    width: 33px;
+    
+}
+.m-div{
+    width: 100%;
+    margin-top:20px ;
+    justify-content: space-between;
+    display: none;
+}
+.burger{
+    width: 30px;
+    height: 4px;
+    background-color: white;
+    margin: 5px;
+}
+
+
+                                               /* NavBar End  */
+
+/* header Start  */
+
+.main-header{
+    
+    /* width: 60%; */
+    margin: 0px auto;
+    margin-top: 50px;
+}
+.main-header h1,h5{
+    color: white;
+    text-align: center;
+}
+.main-header .search{
+margin: 0px auto;
+}
+
+
+.assit-search{
+    border-right: 1px solid grey;
+    width: 200px;
+    background-color: white;
+    height: 50px;
+    padding: 10px;
+    margin-left: auto;
+    text-align: center;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px ;
+}
+.search input{
+    margin-right: auto;
+    height: 50px;
+    outline: none;
+    border: none;
+    background-image: url(./images/search.png);
+    background-repeat: no-repeat;
+    background-position: 590px 12px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    
+}
+
+.sub-div{
+    justify-content: center;
+    width: 500px;
+    margin: 0px auto;
+}
+.history{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px 17px;
+    border-radius: 5px;
+    background-color: rgb(0, 132, 255);
+    color: white;
+}
+
+.sub-div-2{
+    width: 100%;
+    height: 270px;
+    margin-top: 50px;
+    overflow-x: scroll;
+    cursor: pointer;
+    text-align: center;
+    color: white;
+}
+.sub-div-2::-webkit-scrollbar{
+    width: 0;
+}
+
+.circle-div{
+    width: 160px;
+    border-radius: 1000px;
+    border: 1px solid red ;
+    height: 160px;
+    margin: 0px 25px;
+}
+.circle-div{
+    margin-bottom: 10px;
+}
+
+.c-d-1{
+    background-image: url(./images/_23-2149982648.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.c-d-2{
+    background-image: url(./images/_23-2150066873.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.c-d-3{
+    background-image: url(./images/_58466-17816.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.c-d-4{
+    background-image: url(./images/_23-2149830671.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.c-d-5{
+    
+    background-image: url(./images/_171337-118985.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.c-d-6{
+    background-image: url(./images/_23-2149491525.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.c-d-7{
+    background-image: url(./images/_66542-575.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.c-d-8{
+    background-image: url(./images/_23-2149124336.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* header End  */
+/* Signup Banner Start  */
+.banner{
+    margin-top: 47px;
+    width: 100%;
+    height: 90px;
+    background-color: rgb(0, 204, 255,0.2) ;
+    
+}
+.sub-banner{
+    width: 700px;
+    height: 80px;
+    margin: auto auto;
+}
+.sub-banner .first-child{
+    margin-top: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    
+}
+.sub-banner .second-child{
+    
+    margin: auto 20px;
+    margin-right: auto  ;
+    width: 140px;
+    height: 40px;
+    padding-top: 7px;
+    text-align: center;
+    color: white;
+    border-radius: 3px;
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+header{
+    width: 300px;
+    position: absolute;
+    top: 10px;
+
+}
+header div{
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.blue-background{
+width: 100%;
+height: 640px;
+background-color: rgb(43, 110, 255);
+position: absolute;
+top: 0px;
+z-index: -1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1515px) {
+    .sub-div-2{
+        height: 240px;
+    }
+}
+@media screen and (max-width:1083px) {
+
+
+}
+@media screen and (max-width:1020px) {
+    
+
+}
+@media screen and (max-width:996px) {
+        .menu_navigation{
+            display: none;
+        }
+        .main-header{
+            margin-top: 130px;
+        }
+        .auth-div{
+    
+            display: none;
+            position: absolute;
+            top: 20px;
+            right: 5px;
+            margin: 0px 0px;
+        }
+        .circle-div{
+            width: 130px;
+            height: 130px;
+        }
+        .header{
+            display: none;
+        }
+        .m-div{
+            display: flex;
+        }
+        
+            
+            
+        
+}
